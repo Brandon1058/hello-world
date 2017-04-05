@@ -30,10 +30,10 @@ public class Vowel {
             case 'O':     
             case 'u':     
             case 'U':    
-                System.out.println(c + " is a Vowel");
+                System.out.println(c + " is a Vowel"); //Tells which char is a vowel
                 break;
-            default:
-                System.out.println(c + " is a Non-vowel");
+            default: //Default to non-vowels
+                System.out.println(c + " is a Non-vowel"); //Tells you which char is not a vowel
                 break;
         }
     
