@@ -1,3 +1,8 @@
+/*
+Brandon Miller
+ITSE 1302
+4/27/17
+*/
 
 public class Average {
 
